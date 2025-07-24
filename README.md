@@ -1,16 +1,26 @@
-<h1 align="center">Hi there 👋 I'm Mahdi Hashemi</h1>
-<p align="center">AI & Web Developer | Deep Learning Enthusiast | Pythonic Problem Solver</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Mahdi+Hashemi;I+Love+AI+%26+Deep+Learning;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+<hr style="border: 1px solid #f0f0f0; margin: 20px 0;" />
+<p align="center">AI Men | Deep Learning Enthusiast | Pythonic Problem Solver</p>
 
 ---
 
 ### 👨‍💻 About Me
-
-I'm a computer science student passionate about Artificial Intelligence, Deep Learning, and building smart web-based solutions. I enjoy working with data, training models, and creating real-world applications using modern tools and frameworks.
+I'm a computer science student with a strong passion for Artificial Intelligence and Deep Learning. I love exploring data, developing neural network models, and turning complex problems into smart solutions using modern tools and frameworks.
+.
 
 ---
 
 ### ⚙️ Technologies I Work With
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
@@ -21,16 +31,7 @@ I'm a computer science student passionate about Artificial Intelligence, Deep Le
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdihashemi&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihashemi&layout=compact&theme=radical" height="180" />
+  
 </p>
 
 ---
