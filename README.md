@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me
 I'm a computer science student with a strong passion for Artificial Intelligence and Deep Learning. I love exploring data, developing neural network models, and turning complex problems into smart solutions using modern tools and frameworks.
-.
-
+---
+📫 How to reach me mahdimortaza5714@gmail.com
 ---
 
 ### ⚙️ Technologies I Work With
