@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science student currently bridging the gap between Artificial Intelligence and modern Front-End development. With a solid foundation in Deep Learning, Computer Vision, and data processing, I am now focused on building intelligent, responsive, and user-centric web applications using React and contemporary web technologies.
+I am a Computer Science student currently dedicated to modern Front-End development. Having a strong background in Artificial Intelligence and Deep Learning, I leverage this analytical experience to build optimized, structured, and user-centric web applications. My current focus is entirely on mastering React and creating seamless user experiences with clean, maintainable code.
 
 ---
 📫 How to reach me: mahdimortaza5714@gmail.com
@@ -29,7 +29,6 @@ I am a Computer Science student currently bridging the gap between Artificial In
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -48,7 +47,6 @@ I am a Computer Science student currently bridging the gap between Artificial In
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
