@@ -57,8 +57,8 @@ I am a Computer Science student currently dedicated to modern Front-End developm
 <p align="center">
   <img src="https://raw.githubusercontent.com/KDmahdi/KDmahdi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-### 🧠 Currently Working On
 
+🧠 Currently Working On
 - Developing interactive and responsive web applications using React
 - Integrating Machine Learning models into web interfaces
 - Working on Computer Vision tasks (Object Detection & Image Classification)
