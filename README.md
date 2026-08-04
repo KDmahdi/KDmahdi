@@ -52,20 +52,11 @@ I am a Computer Science student currently dedicated to modern Front-End developm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/> 
 </p>
-<img width="1166" height="184" alt="pacman-contribution-graph-dark" src="https://github.com/user-attachments/assets/45cbf85f-fc2c-4265-96f6-01a2c18e01b0" />
-<svg width="1166" height="184" xmlns="http://www.w3.org/2000/svg"><desc>Generated with pacman-contribution-graph on Tue Aug 04 2026 02:27:39 GMT+0000 (Coordinated Universal Time)</desc><metadata>
-		<info>
-			<frames>524</frames>
-			<frameRate>5</frameRate>
-			<durationMs>104800</durationMs>
-			<generatedOn>2026-08-04T02:27:39.954Z</generatedOn>
-		</info>
-	</metadata><rect width="100%" height="100%" fill="#0d1117"/><defs>
-                <symbol id="ghost-blinky-up" viewBox="0 0 20 20">
-                    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiklEQVR4nIXSO2sVURQF4G8mMwa8QU2KxFcjCoIgacR/oCBYCP4fsTEIBkWwEK21UAQLIdjYaKEiJIXBXhNBCFaSeDP3zLa4mdyj5rHgwNmPtffZ62z+Q4miKHlWs3yALwUvKYphbC8UjDN3nIUB/SCCSDRnWKiZVxTFrvxp5kMRHbEltaTODuIED3YkT3FnUy+uS815qQkzMSJOxAWpuSo1A72Y4f5f5DFuBpE+vmsmZ9ukF9Eu/xwV+Pw1TEYcOtum9GmxCaLmdl7jeRDp968mcnQFMqS02bSkMV5tS36UBL6t7ixO6o/uK6sKymM0Q9l5NKC/Ldb3lWGrqenRCw73hr61H9viDujjKbztnLnae50uF4sl1nf91/2xvt9q7YuyEwKCNg+2DFoGue/fnHLoGwbyZQ/akqqkykkFZW6XmNy6VJdYyhPP8eE07/PCl1kqqbbMI3BrjY1rvMH4SW4kmou86Eac5UmiOcUcxq/wep2NirugYh4TXfOah6izUauax5leB2vuwR+e2vAshd8i9AAAAABJRU5ErkJggg==" width="20" height="20"/>
-                </symbol>
-                
-           
+
+<!-- گراف انیمیشنی زنده بر اساس فعالیت واقعی -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ### 🧠 Currently Working On
 
