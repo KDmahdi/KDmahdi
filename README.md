@@ -55,9 +55,8 @@ I am a Computer Science student currently dedicated to modern Front-End developm
 
 <!-- گراف انیمیشنی زنده بر اساس فعالیت واقعی -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/KDmahdi/KDmahdi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
 ### 🧠 Currently Working On
 
 - Developing interactive and responsive web applications using React
