@@ -1,4 +1,4 @@
-name: Generate Snake/Pacman Contribution Grid
+name: Generate Snake Contribution Grid
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
     
     steps:
       - name: generate-github-user-contribution-grid-snake
-        uses: Platane/snk/repository-snake@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
